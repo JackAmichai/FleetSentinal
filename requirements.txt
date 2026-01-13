@@ -1,0 +1,54 @@
+# FleetSentinel - Anti-Swarm Defense System for Autonomous Fleets
+# Python 3.11+ required
+
+# Core Dependencies
+redis>=5.0.0
+aioredis>=2.0.0
+asyncio-throttle>=1.0.0
+
+# Streaming & Message Queue
+aiokafka>=0.9.0
+confluent-kafka>=2.3.0
+
+# HTTP & API Clients
+httpx>=0.25.0
+aiohttp>=3.9.0
+
+# Payment Processing
+stripe>=7.0.0
+
+# Machine Learning (Edge Logic)
+torch>=2.1.0
+numpy>=1.26.0
+
+# Geospatial
+geopy>=2.4.0
+shapely>=2.0.0
+
+# Data Validation
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Configuration
+python-dotenv>=1.0.0
+pyyaml>=6.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+pytest-mock>=3.12.0
+fakeredis>=2.20.0
+
+# Logging & Monitoring
+structlog>=23.2.0
+prometheus-client>=0.19.0
+
+# Type Checking
+mypy>=1.7.0
+types-redis>=4.6.0
+
+# Code Quality
+black>=23.12.0
+isort>=5.13.0
+flake8>=6.1.0
