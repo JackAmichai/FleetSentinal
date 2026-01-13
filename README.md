@@ -1,5 +1,3 @@
-Here is a professional, Star-worthy GitHub README.md.
-You can copy-paste this directly into your repository. It includes the mathematical proofs, the architecture diagrams (described in text), and the implementation details we discussed.
 # 🛡️ FleetSentinel
 
 ### The Anti-Swarm Defense System for Autonomous Fleets
